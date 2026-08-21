@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhishekvar2008/my-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/abhishekvar2008/my-leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
