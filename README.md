@@ -20,9 +20,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/abhishekvar2008/my-leetcode/tree/master/0010-regular-expression-matching) |
 | [0242-valid-anagram](https://github.com/abhishekvar2008/my-leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhishekvar2008/my-leetcode/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/abhishekvar2008/my-leetcode/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/abhishekvar2008/my-leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
