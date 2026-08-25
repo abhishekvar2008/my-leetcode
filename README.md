@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhishekvar2008/my-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/abhishekvar2008/my-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhishekvar2008/my-leetcode/tree/master/0242-valid-anagram) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/abhishekvar2008/my-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
