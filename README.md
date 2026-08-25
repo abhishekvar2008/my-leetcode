@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/abhishekvar2008/my-leetcode/tree/master/0704-binary-search) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhishekvar2008/my-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhishekvar2008/my-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhishekvar2008/my-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/abhishekvar2008/my-leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
