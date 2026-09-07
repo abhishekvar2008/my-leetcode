@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/abhishekvar2008/my-leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0268-missing-number) |
+| [2413-smallest-even-multiple](https://github.com/abhishekvar2008/my-leetcode/tree/master/2413-smallest-even-multiple) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhishekvar2008/my-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhishekvar2008/my-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/abhishekvar2008/my-leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
