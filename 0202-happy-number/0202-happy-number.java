@@ -14,7 +14,7 @@ class Solution {
         while(fast != 1){
             slow=sod(slow);
             fast=sod(sod(fast));
-            if(fast==slow & slow!=1){
+            if(fast==slow && slow!=1){
                 return false;
             }
         }  
