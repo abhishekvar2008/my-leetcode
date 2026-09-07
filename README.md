@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/abhishekvar2008/my-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/abhishekvar2008/my-leetcode/tree/master/0645-set-mismatch) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/abhishekvar2008/my-leetcode/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0268-missing-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhishekvar2008/my-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhishekvar2008/my-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -78,9 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/abhishekvar2008/my-leetcode/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/abhishekvar2008/my-leetcode/tree/master/3903-smallest-stable-index-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
