@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/abhishekvar2008/my-leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/abhishekvar2008/my-leetcode/tree/master/0704-binary-search) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhishekvar2008/my-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhishekvar2008/my-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhishekvar2008/my-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhishekvar2008/my-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/abhishekvar2008/my-leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0268-missing-number) |
 | [2413-smallest-even-multiple](https://github.com/abhishekvar2008/my-leetcode/tree/master/2413-smallest-even-multiple) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhishekvar2008/my-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhishekvar2008/my-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/abhishekvar2008/my-leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhishekvar2008/my-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
