@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/abhishekvar2008/my-leetcode/tree/master/0010-regular-expression-matching) |
 | [0242-valid-anagram](https://github.com/abhishekvar2008/my-leetcode/tree/master/0242-valid-anagram) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhishekvar2008/my-leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishekvar2008/my-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/abhishekvar2008/my-leetcode/tree/master/2413-smallest-even-multiple) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishekvar2008/my-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishekvar2008/my-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
