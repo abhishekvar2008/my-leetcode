@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhishekvar2008/my-leetcode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhishekvar2008/my-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhishekvar2008/my-leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/abhishekvar2008/my-leetcode/tree/master/0053-maximum-subarray) |
 | [0268-missing-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhishekvar2008/my-leetcode/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/abhishekvar2008/my-leetcode/tree/master/0645-set-mismatch) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/abhishekvar2008/my-leetcode/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/abhishekvar2008/my-leetcode/tree/master/0053-maximum-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhishekvar2008/my-leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/abhishekvar2008/my-leetcode/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
