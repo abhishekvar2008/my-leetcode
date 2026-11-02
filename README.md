@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhishekvar2008/my-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhishekvar2008/my-leetcode/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/abhishekvar2008/my-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0645-set-mismatch](https://github.com/abhishekvar2008/my-leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/abhishekvar2008/my-leetcode/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/abhishekvar2008/my-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/abhishekvar2008/my-leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/abhishekvar2008/my-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2413-smallest-even-multiple](https://github.com/abhishekvar2008/my-leetcode/tree/master/2413-smallest-even-multiple) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhishekvar2008/my-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhishekvar2008/my-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
