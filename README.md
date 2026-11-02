@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhishekvar2008/my-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhishekvar2008/my-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhishekvar2008/my-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3668-restore-finishing-order](https://github.com/abhishekvar2008/my-leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhishekvar2008/my-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhishekvar2008/my-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/abhishekvar2008/my-leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/abhishekvar2008/my-leetcode/tree/master/0645-set-mismatch) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhishekvar2008/my-leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/abhishekvar2008/my-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3668-restore-finishing-order](https://github.com/abhishekvar2008/my-leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhishekvar2008/my-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
