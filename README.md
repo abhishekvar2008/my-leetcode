@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/abhishekvar2008/my-leetcode/tree/master/0804-unique-morse-code-words) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/abhishekvar2008/my-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishekvar2008/my-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhishekvar2008/my-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhishekvar2008/my-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhishekvar2008/my-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhishekvar2008/my-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
