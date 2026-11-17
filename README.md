@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/abhishekvar2008/my-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishekvar2008/my-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhishekvar2008/my-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/abhishekvar2008/my-leetcode/tree/master/1436-destination-city) |
 | [1773-count-items-matching-a-rule](https://github.com/abhishekvar2008/my-leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhishekvar2008/my-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhishekvar2008/my-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/abhishekvar2008/my-leetcode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhishekvar2008/my-leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/abhishekvar2008/my-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1436-destination-city](https://github.com/abhishekvar2008/my-leetcode/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhishekvar2008/my-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3668-restore-finishing-order](https://github.com/abhishekvar2008/my-leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhishekvar2008/my-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhishekvar2008/my-leetcode/tree/master/0242-valid-anagram) |
 | [0804-unique-morse-code-words](https://github.com/abhishekvar2008/my-leetcode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhishekvar2008/my-leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1436-destination-city](https://github.com/abhishekvar2008/my-leetcode/tree/master/1436-destination-city) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishekvar2008/my-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/abhishekvar2008/my-leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhishekvar2008/my-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
