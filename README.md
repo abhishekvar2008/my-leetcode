@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/abhishekvar2008/my-leetcode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhishekvar2008/my-leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/abhishekvar2008/my-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/abhishekvar2008/my-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3668-restore-finishing-order](https://github.com/abhishekvar2008/my-leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhishekvar2008/my-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhishekvar2008/my-leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishekvar2008/my-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/abhishekvar2008/my-leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/abhishekvar2008/my-leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3174-clear-digits](https://github.com/abhishekvar2008/my-leetcode/tree/master/3174-clear-digits) |
 ## Sorting
 |  |
