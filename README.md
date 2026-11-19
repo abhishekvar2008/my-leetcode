@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/abhishekvar2008/my-leetcode/tree/master/0010-regular-expression-matching) |
+| [0171-excel-sheet-column-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/abhishekvar2008/my-leetcode/tree/master/0242-valid-anagram) |
 | [0804-unique-morse-code-words](https://github.com/abhishekvar2008/my-leetcode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhishekvar2008/my-leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/abhishekvar2008/my-leetcode/tree/master/0007-reverse-integer) |
+| [0171-excel-sheet-column-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/abhishekvar2008/my-leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0268-missing-number) |
