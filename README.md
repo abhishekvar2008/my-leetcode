@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/abhishekvar2008/my-leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhishekvar2008/my-leetcode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/abhishekvar2008/my-leetcode/tree/master/0319-bulb-switcher) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhishekvar2008/my-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2413-smallest-even-multiple](https://github.com/abhishekvar2008/my-leetcode/tree/master/2413-smallest-even-multiple) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhishekvar2008/my-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhishekvar2008/my-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/abhishekvar2008/my-leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
